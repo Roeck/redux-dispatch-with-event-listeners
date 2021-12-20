@@ -4,7 +4,7 @@
   "description": "Use event listeners to dispatch actions",
   "main": "index.js",
   "scripts": {
-    "start": "open index.html"
+    "start": "start index.html"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,5 @@
   "bugs": {
     "url": "https://github.com/learn-co-curriculum/redux-dispatch-with-event-listeners/issues"
   },
-  "homepage": "https://github.com/learn-co-curriculum/redux-dispatch-with-event-listeners#readme"  
+  "homepage": "https://github.com/learn-co-curriculum/redux-dispatch-with-event-listeners#readme"
 }
